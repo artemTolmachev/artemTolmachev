@@ -8,16 +8,27 @@
 ### Conect with me:
 
 
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tolmachev Artem" height="30" width="40" />][linkedin]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Tolmachev Artem" height="30" width="40" />][facebook]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tolmachev Artem" width="26" />][linkedin]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Tolmachev Artem" width="26" />][facebook]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Tolmachev Artem" width="26" />][instagram]
 
 <br/>
 <br/>
 
 [facebook]: https://www.facebook.com/profile.php?id=100061966137095
 [linkedin]: https://www.linkedin.com/feed/
+[instagram]: https://www.instagram.com/artom8912/?hl=ru
 
-
-## Languages and Tools:
+## Languages and Tools:https://raw.githubusercontent.com/github/explore/
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React-icon"  width="26" />
+<img align="left" src="80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML-icon"  width="26" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS-icon"  width="26" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS-icon"  width="26" />
+<img align="left" src="hhttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscod-icon"  width="26" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript-icon"  width="26" />
+
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemTolmachev&show_icons=true&theme=radical&theme=nightowl)
