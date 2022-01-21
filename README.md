@@ -16,3 +16,8 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100061966137095
 [linkedin]: https://www.linkedin.com/feed/
+
+
+## Languages and Tools:
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React-icon"  width="26" />
