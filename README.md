@@ -9,15 +9,11 @@
 
 
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tolmachev Artem" width="26" />][linkedin]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Tolmachev Artem" width="26" />][facebook]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Tolmachev Artem" width="26" />][instagram]
 
 <br/>
 <br/>
 
-[facebook]: https://www.facebook.com/profile.php?id=100061966137095
 [linkedin]: https://www.linkedin.com/feed/
-[instagram]: https://www.instagram.com/artom8912/?hl=ru
 
 ## Languages and Tools:
 
