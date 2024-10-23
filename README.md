@@ -5,10 +5,6 @@
 - 🌱 I’m working with React.js and Javascript
 - 🤔 I’m  looking for a job in IT company
 
-### Conect with me:
-
-
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tolmachev Artem" width="26" />][linkedin]
 
 <br/>
 <br/>
